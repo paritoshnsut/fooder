@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "693675969115",
+    "firebase_url": "https://restaurant-app-a0cad.firebaseio.com",
+    "project_id": "restaurant-app-a0cad",
+    "storage_bucket": "restaurant-app-a0cad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693675969115:android:8eb3b098c26a75b8358d7e",
+        "android_client_info": {
+          "package_name": "com.example.rest_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693675969115-tfuequu0tll1afeu563kjqs6vtq7o7ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTjxUenttkVXj4AvcnTxObjGomNR0fbFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693675969115-tfuequu0tll1afeu563kjqs6vtq7o7ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
